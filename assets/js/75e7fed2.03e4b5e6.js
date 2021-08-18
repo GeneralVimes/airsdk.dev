@@ -1,1 +1,0 @@
-(self.webpackChunkairsdk_dev=self.webpackChunkairsdk_dev||[]).push([[46],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/news/welcome"}]}')}}]);

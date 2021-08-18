@@ -1,1 +1,0 @@
-(self.webpackChunkairsdk_dev=self.webpackChunkairsdk_dev||[]).push([[422],{3158:function(s){"use strict";s.exports=JSON.parse('{"airsdk":{"allTagsPath":"/news/tags","slug":"airsdk","name":"airsdk","count":1,"permalink":"/news/tags/airsdk"}}')}}]);
