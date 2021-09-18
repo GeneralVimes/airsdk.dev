@@ -13,5 +13,9 @@
         <link href="https://airsdk.dev/news/welcome"/>
         <updated>2021-05-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to the new AIR SDK developer portal.]]></summary>
+        <author>
+            <name>Michael</name>
+            <uri>https://github.com/marchbold</uri>
+        </author>
     </entry>
 </feed>
