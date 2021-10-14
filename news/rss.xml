@@ -4,9 +4,16 @@
         <title>AIR SDK Blog</title>
         <link>https://airsdk.dev/news</link>
         <description>AIR SDK Blog</description>
-        <lastBuildDate>Tue, 25 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Community and Showcase Sections]]></title>
+            <link>https://airsdk.dev/news/2021/10/14/new-additions</link>
+            <guid>Community and Showcase Sections</guid>
+            <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Due to a lot of requests over the previous months we have added several new sections to promote developers and better direct people to the current resources available for AIR.]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://airsdk.dev/news/welcome</link>
